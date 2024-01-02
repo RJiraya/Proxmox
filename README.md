@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/tteck/Proxmox/main/misc/images/logo.png" height="100px" />
+<img src="https://raw.githubusercontent.com/rjiraya/Proxmox/main/misc/images/logo.png" height="100px" />
 </div>
 <h1 align="center">Proxmox VE Helper-Scripts</h1>
 
