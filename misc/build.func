@@ -421,7 +421,7 @@ install_script() {
   check_root
   ssh_check
   arch_check
-  pve_check
+  #pve_check # disable
   if systemctl is-active -q ping-instances.service; then
     systemctl -q stop ping-instances.service
   fi
